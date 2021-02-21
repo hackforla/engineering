@@ -5,7 +5,7 @@ Welcome to the Development Community of Practice. We are happy you are here!
 p.s. developement means coding, programing, engineering, etc.
 
 ## Looking for a Lead who can run this meeting
-We are in the process of looking for a Lead for this community of practice.  
+We are in the process of looking for a Lead for this community of practice. Once we have that, the items missing below can be added. 
 
 > ## Let's get Started
 

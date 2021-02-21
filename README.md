@@ -3,7 +3,7 @@
 Welcome to the Engineering Community of Practice. We are happy you are here!
 
 
-## Looking for a Lead who can run this meeting
+## Looking for Leads who can run this meeting
 We are in the process of looking for Leaders for this community of practice. Once we have those, the items missing below can be added. 
 
 > ## Let's get Started

@@ -4,13 +4,16 @@ Welcome to the Development Community of Practice. We are happy you are here!
 
 p.s. developement means coding, programing, engineering, etc.
 
-## Let's get Started
-
-If you have not read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), please do so.  
-
+## Looking for a Lead who can run this meeting
 We are in the process of looking for a Lead for this community of practice.  
 
-## Steps that will need to be setup 
+> ## Let's get Started
+
+> If you have not read the [Guide for New Volunteers](https://www.hackforla.org/getting-started), please do so.  
+
+
+
+> ## Steps that will need to be setup 
 > 1. Join the [#developers](https://hackforla.slack.com/archives/C01CU709SER) Slack channel and introduce yourself.
 > 1. Slack our Development Community of Practice lead [_ _ _ ]() with your Gmail address.
 > 1. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1xWllQli2wUSsRF9OaSQBBQ1vaY7kRkAT).

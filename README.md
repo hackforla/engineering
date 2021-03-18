@@ -17,3 +17,7 @@ If you have not read the [Guide for New Volunteers](https://www.hackforla.org/ge
 1. Check out the [open Engineering roles](https://github.com/hackforla/engineering/projects/2) we have available.
 
 The Engineering Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)
+
+## Contributing
+
+Once you have gone through onboarding, see the [CONTRIBUTING](./CONTRIBUTING.md) document for more details on how to get started. Also see our [Code of Conduct](./CODEOFCONDUCT.md) and [License](./LICENSE.txt) documents.

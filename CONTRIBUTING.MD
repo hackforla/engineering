@@ -15,7 +15,7 @@ To develop the site, you'll need to first clone the repository on to your comput
 
 **Before you start working on an issue**
 
-5. [Read Hack for LA's Site Architecture to get acquainted with how the website is structured](https://github.com/hackforla/website/wiki/Hack-for-LA's-Site-Architecture)
+
 
 6. [Switch to new issue branch before you start making changes](#step-6-change-to-a-new-branch)
 
@@ -71,9 +71,9 @@ In https://github.com/hackforla/website, look for the fork icon in the top right
 
 For git beginners, a fork is a copy of the repository that will be placed on your GitHub account url.
 
-It should create a copy here: https://github.com/your_GitHub_user_name/website, where `your_GitHub_user_name` is replaced with exactly that.
+It should create a copy here: https://github.com/your_GitHub_user_name/, where `your_GitHub_user_name` is replaced with exactly that.
 
-Note that this copy is on a remote server on the GitHub website and not on your computer yet.
+
 
 If you click the icon again, it will not create a new fork but instead give you the URL associated with your fork.
 

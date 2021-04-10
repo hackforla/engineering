@@ -1,4 +1,4 @@
-# Engineering Community of Practice 
+# Engineering Community of Practice  
 
 Welcome to the Engineering Community of Practice. We are happy you are here!
 

@@ -11,7 +11,7 @@ assignees: ''
 We need to create a guide to making [name of item] so that [purpose of the item]
 
 ### Action Items
-- [ ] Gather examples of how other projects have done it, adding each example as a link in the resources section
+- [ ] Gather examples of how other projects have done it, adding each example as a link in the resources section. It is really important to annotate as you go in this issue, so that if you have to stop working on the issue, its already up to date with your findings.
    - [ ] Once done, remove the "TG: Gather Examples" label and add the "TG: Draft Template" label
 - [ ] Create a draft template, either in markdown format in this issue or a google doc in the [Engineering google drive](https://drive.google.com/drive/u/0/folders/1xWllQli2wUSsRF9OaSQBBQ1vaY7kRkAT)
     - [ ] Once done, remove the "TG: Draft Template" label and add the "TG: Create Guide" label

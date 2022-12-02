@@ -2,7 +2,7 @@
 name: Template for Making Guides/Templates template
 about: Describe this issue template's purpose here.
 title: 'Create a Guide/Template: [name of item]'
-labels: 'documentation, TG: Gather Examples'
+labels: 'documentation, feature: guide creation, TG: Gather Examples'
 assignees: ''
 
 ---

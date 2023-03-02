@@ -16,7 +16,7 @@ If you have not attended Hack for LA onboarding, plase read the [Guide for New V
 ### Step 1. Join Software Engineering Community of Practice
 
 1. Join the [#engineering](https://hackforla.slack.com/archives/C01CU709SER) Slack channel and introduce yourself.
-2. Slack our Engineering Community of Practice lead [Ava Li](https://hackforla.slack.com/team/U01B73XGCKV) with your Gmail address.
+2. Slack our [Engineering Community of Practice lead](https://www.hackforla.org/communities-of-practice) with your Gmail address.
 3. Accept your Google Drive invite to access the [shared folder](https://drive.google.com/drive/u/0/folders/1xWllQli2wUSsRF9OaSQBBQ1vaY7kRkAT).
 4. Add yourself to the [Team Roster](https://docs.google.com/spreadsheets/d/1lK6VziVqPb1FPmX8_z148AEOrpwsEzTPct7Bo7kjaqI/edit) and inform [Ava Li](https://hackforla.slack.com/team/U01B73XGCKV).
 

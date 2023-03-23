@@ -5,7 +5,7 @@ Welcome to the Software Engineering Community of Practice. We are happy you are 
 
 ## When We Meet
 
-Wednesday night 6:00PM Pacific Time
+Wednesday night 6:00PM Pacific Time [on hold while we change leadership]
 
 
 ## Let's Get Started

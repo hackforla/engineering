@@ -5,7 +5,7 @@ Welcome to the Software Engineering Community of Practice. We are happy you are 
 
 ## When We Meet
 
-Thursday night 6:00PM Pacific Time
+Thursday nights 6:00PM Pacific Time
 
 
 ## Let's Get Started
@@ -29,7 +29,7 @@ If you have not attended Hack for LA onboarding, plase read the [Guide for New V
 
 ### Step 3. Join the CoP Meeting - Come Meet Engineers from All Teams
 
-* Join our Engineering Community of Practice meeting every Wednesday at 6 PM PST [on hold]
+* Join our Engineering Community of Practice meeting Thursdays at 6 PM PST
 * Take the [Remote Onboarding Survey](https://docs.google.com/forms/d/e/1FAIpQLScXnJSyCXgO_RCAuCyOkG4sqGILpAepTlJ0HOaK4H_ccEVmNw/viewform) to provide feedback about your experience joining Hack for LA.
 
 The Engineering Community of Practice is one of many.  [See all our Communities of Practices](https://github.com/hackforla/communities-of-practice/blob/main/README.md)

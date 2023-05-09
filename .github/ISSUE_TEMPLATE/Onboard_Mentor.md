@@ -1,8 +1,8 @@
 ---
 name: Onboard Mentor
 about: Consistent formatting make Issues concise and easy to navigate
-title: 'Onboard Mentor [name of mentor]'
-labels: 'role: lead, program: Mentor Nights'
+title: Onboard Mentor [name of mentor]
+labels: 'program: Mentor Nights, role: lead'
 assignees: ''
 
 ---

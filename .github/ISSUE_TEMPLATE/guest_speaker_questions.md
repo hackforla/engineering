@@ -12,8 +12,10 @@ We need to create a list of questions for our guest speaker [PERSON OR COMPANY] 
 
 ### Action Items
 - [ ] Send issue to Engineering Slack channel and ask Engineering members to write their questions in the comments.
+- [ ] Send format of talk to guest
 - [ ] Collate the questions into a list of unique questions (non-duplicated questions).
-- [ ] Send them to the guest speakers within 2 weeks of their talk.
+- [ ] Send ***Questions*** and ***Consent Form*** within 2 weeks of their talk.
+- [ ] Update Wiki
 
 ### Resources/Instructions
 <details>

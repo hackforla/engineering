@@ -13,4 +13,5 @@ We need to onboard sr developer [mentor name] to our Mentor team.
 ### ACTION ITEMS
 - [ ] Let them know their information will be posted on the wiki
 - [ ] Add their name, Slack, GitHub, and LinkedIn to the [Engineering CoPs wiki](https://github.com/hackforla/engineering/wiki/Community#engineering-cop-mentors)
-- [ ] Add their email to the Engineering CoP calendar invite
+- [ ] Add their email to the Engineering CoP calendar invite and give them the "Mentor" label in contacts
+- [ ] Add them to the [project board mentor list](https://github.com/hackforla/engineering/projects/1#card-89258504)

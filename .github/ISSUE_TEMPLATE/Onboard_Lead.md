@@ -18,6 +18,7 @@ We need to onboard [NEW LEAD NAME] onto the project.
     - [ ] Add to Engineering Contacts with leads label
     - [ ] Add to Google calendar invites
 - [ ] Add to [community page](https://github.com/hackforla/engineering/wiki/Community#engineering-cop-leads) on Wiki
+- [ ] Add to [HfLA CoP page](https://www.hackforla.org/communities-of-practice) by filling out [this website issue](https://github.com/hackforla/website/issues/new?assignees=&labels=role%3A+product%2CP-Feature%3A+Communities+of+Practice%2Ctime+sensitive%2CComplexity%3A+Missing%2Csize%3A+missing&projects=&template=communities-of-practice-information-updates.yml&title=Communities+of+Practice+information+updates%3A+%5BINSERT+NAME+OF+Community+of+Practice%5D)
 - [ ] Google Drive
    - [ ] Add to Engineering drive as Manager
 - [ ] GitHub

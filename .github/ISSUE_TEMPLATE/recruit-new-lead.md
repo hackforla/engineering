@@ -28,3 +28,4 @@ We need a lead to help us out with [description of work needed].
    - [Mentor Coordinator](https://github.com/hackforla/engineering/projects/2#card-90139782)
 - Open Roles wiki
    - [Mentor Coordinator](https://github.com/hackforla/engineering/wiki/Community-Leads-Open-Roles#engineering-cop-community-co-lead---mentor-coordinator)
+- Recruitment forms can be found [here](https://drive.google.com/drive/u/0/folders/1A8KSPEQ5oupkp5iCK53Xu85lh7Wm7q0r)

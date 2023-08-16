@@ -22,7 +22,7 @@ We need a lead to help us out with [description of work needed].
    - They are able to commit to at least 6 months
    - They are available to come to Thursday meetings
    - They are able to participate in meaningful conversation and interested in community development ('Why are you interested in this role?)
-- [ ] Onboard the selected new lead
+- [ ] [Onboard](https://github.com/hackforla/engineering/issues/new?assignees=&labels=role%3A+lead&projects=&template=Onboard_Lead.md&title=Onboard+%5Bname+of+new+lead%5D) the selected new lead
 
 ### Resources/References
 - Open Roles Cards

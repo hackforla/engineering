@@ -24,7 +24,7 @@ If you have not attended Hack for LA onboarding, plase read the [Guide for New V
 
 1. All Hack for LA teams use Kanban boards to encourage continuous improvements at all the level of the organization. Learn more about Kanban with our [Guide to How-To Use Our Github Kanban Board](https://docs.google.com/document/d/11Fe7mNdmPBP5bD_yLJ1C0_I1TmoK47AuHHrdhdDyWCs/edit#heading=h.nl3p4nf4eqb4) (working draft).
 2. Kanban is one of the popular frameworks used to implement agile development. Learn more about [Agile](https://www.atlassian.com/agile).
-3. Check out the currently [open Engineering roles](https://github.com/hackforla/engineering/projects/2).
+3. Check out the currently [open Engineering roles](https://github.com/orgs/hackforla/projects/67/views/3).
 
 
 ### Step 3. Join the CoP Meeting - Come Meet Engineers from All Teams
